@@ -1,0 +1,274 @@
+header
+{
+    background-color: #080433; 
+    height: 60px; 
+    margin-top: 10px;
+    overflow-y: auto;
+
+}
+
+#options_in_header
+{
+    height:50px ; 
+    margin-top: 10px; 
+    display: inline-block;
+
+}
+
+header > div > span
+{
+   
+    font-size: 30px;  
+    margin-top:18px;
+    margin-bottom: 10px;
+    margin-left: 10px; 
+    padding-right: 10px; 
+    border-right-color: yellow; 
+    border-right-style: ridge;
+}
+
+.header_img
+{
+    height: 35px; width: 35;
+}
+
+body
+{
+    background-image:url(https://i.ibb.co/PYNbq51/space3.jpg); 
+    background-repeat:repeat-y; 
+    background-size: 100%;
+}
+
+#mern_image
+{
+    margin-top: 30px;
+    width:23%;
+    margin-left: 36%;
+    margin-right: 36%;
+    height:170px;
+   
+}
+#i_am
+{
+    font-size: 70px; 
+    text-align: center; 
+    color:#82e90c;
+}
+
+#profile_card
+{
+    background-color: #080433; 
+    background-image:url(https://i.ibb.co/Qj2QMPH/4-K-Soft-Background.jpg); 
+    background-repeat:y-repeat; 
+    background-size: 100%;
+    width:97.34%; 
+    height: 700px; 
+    border: yellowgreen; 
+    border-width:20px; 
+    border-style:double;
+    display:inline-block;
+    align-self:center;
+    overflow:auto;
+    margin-bottom: 70px;
+    
+}
+
+#my_pic
+{
+    margin-top: 100px;
+    margin-bottom: 100px; 
+    margin-left: 6.82%; 
+    margin-right: 1.70%;
+}
+
+#my_info
+{
+    color: white; 
+    font-size: 35px; 
+    font-style: oblique; 
+    height: 550px; 
+    width: 47.74%;  
+    margin-top: 100px; 
+    margin-bottom: 50px; 
+    margin-left: 1.70%; 
+    margin-right: 1.70%; 
+    float: right; 
+}
+
+
+
+#connect_me_social
+{
+    height: 1950px; 
+    width:90%; 
+    background-image: 
+    url(https://i.ibb.co/MgF18xQ/Neon-lights-on-old-grunge-brick-wall-room-background.jpg); 
+    background-repeat:repeat-y; 
+    background-size: 100%; 
+    display:inline-block; 
+    overflow:hidden auto;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border:groove rgb(2, 2, 44) 20px;
+
+}
+
+.social
+{
+    display:inline-block;
+    height:300px;
+    width:100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow:hidden auto;
+}
+
+#connect_me
+{
+    margin-top: 50px; 
+    display: inline-block;
+    font-style: oblique; 
+    color: rgb(255, 255, 255); 
+    font-size: 100px; 
+    margin-bottom: 115px; 
+    background-color: rgb(2, 2, 43); 
+    text-align: center; 
+    width:100%
+}
+
+.social_card
+{
+    font-style: oblique; 
+    color: rgb(255, 255, 255);; 
+    font-size: 50px; 
+    margin-top: 120px; 
+    margin-bottom:120px;  
+    background-color: rgb(2, 2, 43);
+}
+
+
+#message
+{
+    height:500px;
+    border: black; 
+    border-style: double; 
+    margin-top: 50px; 
+    display: inline-block;
+    width:100%;
+    overflow:auto auto;
+}
+
+
+
+.message_box
+{
+    display: inline-block; 
+    float: left; 
+    height: 400px; 
+    width:40%; 
+    margin-left:5%; 
+    margin-right: 5%;
+    overflow:auto auto;
+  
+   
+}
+
+.detail_box
+{
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.details
+{
+    background-color:#080433;
+    color:aliceblue;
+    font-size: 30px;
+    display: inline-block;
+    font-weight: bold;
+    width:50%;
+    text-align: right;
+    margin-left: 3%;
+    overflow:auto auto;
+}
+
+.input_text
+{
+    width:40%;
+    height:30px;
+    margin-bottom: 5px;
+    float:right;
+    margin-right: 3%;
+}
+
+#footer_social
+{
+    display: inline-block; 
+    width:35%; 
+    margin-top: 50px; 
+    margin-left: 32.5%; 
+    margin-right: 32.5%; 
+    overflow:auto auto
+}
+
+
+
+.badge
+{
+    height:300px;
+    width:39.8%;
+    margin-left:5%;
+    margin-right:5%;
+    float:left;
+}
+
+#my_badges
+{
+    display:inline-block; 
+    height:300px; 
+    width:100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#badge_card
+{
+    display:inline-block; 
+    height:300px;
+    width: 50%; 
+    margin-left:25%;
+    margin-right:25%;
+}
+
+#skills
+{
+    display:inline-block; 
+    height:200px; 
+    width:100%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    overflow:hidden auto;
+}
+
+#skills > img
+{
+    float: left; margin-left: 1.6%; margin-right: 1.6%;
+}
+
+#my_location
+{
+    display: inline-block; 
+    width:90%; 
+    margin-left:5%;
+    margin-right: 5%; 
+    margin-bottom: 20px;
+    height:1000px
+}
+
+footer
+{
+    background-color: #12add4; height: 200px; width:100%;
+    overflow: auto auto;
+}
